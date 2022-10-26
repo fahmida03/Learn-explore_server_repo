@@ -1,0 +1,200 @@
+[
+    {   
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "course_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Digital Marketing",
+      "instructor": {
+        "name": "Ayman Khan" 
+      },
+      "lectures": {
+        "lecture": "24 (Regular)",
+        "week": "18 (weekend)" 
+      },
+      "skill_level" : "Beginner",
+      "duration": "72 Hours",
+      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      "details": {
+        "start" : "This Digital Marketing Training Program provides a detailed understanding of Digital Marketing concepts, strategies, and implementation, including planning a website, website promotion, email and Search Engine Optimization (SEO) campaigns, and integrating digital marketing with traditional marketing.",
+        "course_description" : "This Digital Marketing Training Program provides a detailed understanding of Digital Marketing concepts, strategies, and implementation, including planning a website, website promotion, email and SEO campaigns, and integrating digital marketing with traditional marketing.Covering best practices and using case studies throughout, the session offers a practical guide to the core techniques in digital marketing. Online tools and reference materials are highlighted throughout, enabling delegates to leave with solid hands-on knowledge that they can implement immediately upon return to the office.",
+        "certification" : "After completing the course students will become expert Digital Marketers. They will become certified in social media marketing(Ex: Facebook, Instagram, Linkedin & Pinterest Marketing), Search Engine Optimization, Google Ads(PPC), Google Analytics, Google Tag Manager, YouTube marketing, Email Marketing, Reddit Marketing and many more.",
+        "learning_outcomes" : "On completion of the course, students will be able to: Planning & Executing Digital Marketing Campaigns for Businesses., Undertake Social Media Marketing, Create and manage Facebook, Instagram, Linkedin & Google Ad Campaign., Undertake YouTube Marketing, Use Google Analytics & Google Tag Manager, Undertake Email Marketing, Undertake Technical, On-Page & Off-Page SEO",
+        "prerequisites" : "Basic knowledge of PCs, MS Windows, internet and online proficiency, Basic knowledge of English (reading/writing/speaking), Familiarity with coding (for HTML/ CSS etc.)[NOT MANDATORY]"
+      }
+    },
+    {   
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "course_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 498,
+      "title": "Accounts Management System",
+      "instructor": {
+        "name": "Sakib Khan" 
+      },
+      "lectures": {
+        "lecture": "20 (Regular)",
+        "week": "15 (weekend)" 
+      },
+      "skill_level" : "Beginner",
+      "duration": "62 Hours",
+      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      "details": {
+        "start" : "Accounts Management System Course will serve you with one of the most useful skills in the accounting sector. Enhance your work eligibility with the most popular accounting tools in the world such as QuickBooks & Xero.",
+        "course_description" : "Recently the Account management system course has become one of the most challenging courses. As per online resources, QuickBooks, Xero, and wave are the most used accounting software worldwide. In our accounts management system course, we will focus on the two most used tools for accounts management: Quickbooks & Xero. With the help of accounts management system software, you can keep track of all your business records. Company and employee incomes, expenses, and all financial transactions can be recorded. Thus you can monitor your business progress. Our mentors have created an extremely effective course outline. You will be able to construct and add chart accounts and conversation balances, as well as handle customers, inventory, sales, bills, and related personnel after completing the course.",
+        "certification" : "After completing the course students will be expert in Accounting",
+        "learning_outcomes" : "By completing this course, you will be able to get the following outcome: (Create and Add charts of accounts),(Create Financial Statements and Organizational Reports), (Manage Customers, Suppliers, and Employees), (Manage Bills and Quick Expenses, Manage Inventory _ Products & Services), (Manage Sales Invoices and Sales Receipts), (Manage Payroll, Lists & Tools)",
+        "prerequisites" : "(Accounting background – BBA/MBA), (Basic knowledge of PCs, MS Windows, internet, and online proficiency), (Basic knowledge of English (reading/writing/speaking))"
+      }
+    },
+    {   
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "course_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Web Development",
+      "instructor": {
+        "name": "Arman Khan" 
+      },
+      "lectures": {
+        "lecture": "12 (Regular)",
+        "week": "30 (weekend)" 
+      },
+      "skill_level" : "Intermediate",
+      "duration": "472 Hours",
+      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      "details": {
+        "start" : "Advanced Web Development is one of the critical areas of computer science. It includes web designing, programming, database management, and other related staff.",
+        "course_description" : "Web Development is all about creating, building, and maintaining websites and web applications. It includes web designing, programming, database management, and other related staff. To run a website successfully, some parameters should be met that are also part of the web development process. Speed, Stability, Robustness, Accessibility, and Usability; these properties need to be maintained. Advanced Web Development is one of the critical areas of computer science. It is performed to maintain large-scale web applications, social media, advertising, etc. The difference between Advanced Web Development and Web Development is that in advanced web development web services are used that are beyond web service standards.",
+        "certification" : "After completing the course students will become expert Web Developer. They will become certified in web development",
+        "learning_outcomes" : "On completion of the course, students will be able to: (Clear Concept of Laravel), (API Development), (Concept of Auth Management), (Complete Blog Application), (Complete e-Commerce Application), (Laravel Apps Development),",
+        "prerequisites" : "(PHP basic skill), (Basic knowledge of English (reading/writing/speaking)), (Familiarity with coding (HTML5/CSS3/jQuery/Bootstrap))"
+      }
+    },
+    {   
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "course_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 458,
+      "title": "Graphic Design",
+      "instructor": {
+        "name": "Akbar Khan" 
+      },
+      "lectures": {
+        "lecture": "10 (Regular)",
+        "week": "22 (weekend)" 
+      },
+      "skill_level" : "Beginner",
+      "duration": "82 Hours",
+      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      "details": {
+        "start" : "Professional Graphic Design is the most sought-after skill in both offline and freelancing marketplaces. It combines graphic and UI/UX designing at a professional level.",
+        "course_description" : "Graphic Design is the most demanding skill in both online and offline marketplaces. But when the depth of that skill reaches the professional level, its demand and importance both increase. The most commonly used tools in professional graphic design courses are Photoshop, Illustrator, InDesign, After Effects, Figma, etc. In our professional graphic design course, you will have in-depth knowledge of Adobe Photoshop, Adobe Illustrator, Adobe InDesign, and Figma, which will help you learn both graphic and UI/UX designing at a professional level. All our mentors are highly qualified and have proven records. They are all successful in both their freelancing and professional career. After completing this course, you will get many graphic design jobs in freelance marketplace like Fiverr, Upwork, Freelancer.com, etc. We will give you the proper guideline for this.",
+        "certification" : "After completing the course students will become expert Graphic Designer. They will become certified in Graphic Design",
+        "learning_outcomes" : "By completing this course, you will be able to get the following outcome: Work in global and freelancing marketplaces as a professional graphic designer, Work as a UI/UX designer, Complete different designs including business cards, flyers, logos, etc, Use Layer Management, Masking, Retouching techniques, and various color management tools, Hands-on experience with different tools and functions, Knowledge about buyer communication systems at the international level",
+        "prerequisites" : "Basic knowledge of PC, MS Office, and online proficiency, Basic knowledge of English (reading/writing/speaking)"
+      }
+    },
+    {   
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "course_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "App Development",
+      "instructor": {
+        "name": "Salman Khan" 
+      },
+      "lectures": {
+        "lecture": "22 (Regular)",
+        "week": "28 (weekend)" 
+      },
+      "skill_level" : "Beginner",
+      "duration" : "92 Hours",
+      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      "details": {
+        "start" : "Android is one of the most popular operating system among mobile and tab users. The use of Android devices without apps is unimaginable.",
+        "course_description" : "Android is one of the most popular operating system among mobile and tab users. The use of Android devices without apps is unimaginable. Companies are constantly developing their Android apps to provide various information, services. With this popularity of Android devices, Android app development has become a popular profession in the past month. You can build a career in freelancing marketplace or local job sector as a professional in Android App Development. If you want to build a professional or freelancing career in Android App Development, you have to be expert.",
+        "certification" : "After completing the course students will become expert App developer. They will become certified app developer",
+        "learning_outcomes" : "Android Development Environment Setup, XML, XML with Java, Inheritance and Encapsulation, Polymorphism and Abstraction, Design Pattern Generic Collection, Local data, Firebase, Google Locations Services & APIs, Monetize and Publish",
+        "prerequisites" : "Basic knowledge of PCs, MS Windows, internet and online proficiency, Basic knowledge of English (reading/writing/speaking), Familiarity with coding (for HTML/ CSS etc.)[NOT MANDATORY]"
+      }
+    },
+    {   
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "course_id": "06",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Python & Django",
+      "instructor": {
+        "name": "Shah Rukh Khan" 
+      },
+      "lectures": {
+        "lecture": "20 (Regular)",
+        "week": "15 (weekend)" 
+      },
+      "skill_level" : "Beginner",
+      "duration": "52 Hours",
+      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      "details": {
+        "start" : "Python is one of the most famous programming languages in the world at present time. It is a high-level programming language that has an English-like syntax. This makes it easier to read and understand the code. It is also really easy to pick up and learn, that is why a lot of people recommend Python to beginners. Python comes under the OSI-approved open-source license. This makes it free to use and distribute. You can download the source code, modify it and even distribute your version of Python. This is useful for organizations that want to modify some specific behavior and use their version for development.",
+        "course_description" : "Python is one of the most famous programming languages in the world at present time. It is a high-level programming language that has an English-like syntax. This makes it easier to read and understand the code. It is also really easy to pick up and learn, that is why a lot of people recommend Python to beginners. Python comes under the OSI-approved open-source license. This makes it free to use and distribute. You can download the source code, modify it and even distribute your version of Python. This is useful for organizations that want to modify some specific behavior and use their version for development.",
+        "certification" : "After completing the course students will become expert in Python and Django.",
+        "learning_outcomes" : "Introduction to Python, Django, HTML & CSS, HTML, CSS Project, JavaScript Basic, JavaScript API, python Introduction, Python Data Type, Advanced Python, Django Models, PostgreSQL Intro, Python Project",
+        "prerequisites" : "Basic knowledge of PCs, MS Windows, internet and online proficiency, Basic knowledge of English (reading/writing/speaking), Familiarity with coding (for HTML/ CSS etc.)[NOT MANDATORY]"
+      }
+    },
+    {   
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "course_id": "07",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 400,
+      "title": "WordPress",
+      "instructor": {
+        "name": "Mahbub Khan" 
+      },
+      "lectures": {
+        "lecture": "24 (Regular)",
+        "week": "19 (weekend)" 
+      },
+      "skill_level" : "Beginner",
+      "duration": "42 Hours",
+      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+      "details": {
+        "start" : "WordPress is one of the most popular Content Management Systems. It is widely used for building and hosting websites. Shopify is an eCommerce platform that helps you to manage and grow your business.",
+        "course_description" : "WordPress is one of the most popular Content Management Systems(CMS). It is widely used for building and hosting websites. WordPress is structured with different plugin architectures and templates. It is so flexible that a user even with a small amount of knowledge can build a website using WordPress.",
+        "certification" : "After completing the course students will become expert Wordpress developer. They will become certified in wordpress development",
+        "learning_outcomes" : "Landing Page, Squeeze Page & Sales Page, Membership Website, E-commerce Website, Portfolio Website, Educational Website, Booking Website, Non-Profit Website, Customization Premium Theme, Complete Store Using Premium Theme, Landing Page Design With Shopify Apps/Page Builder, Drop shipping Business Basic To Advance",
+        "prerequisites" : "Basic knowledge of PCs, MS Windows, internet and online proficiency, Basic knowledge of English (reading/writing/speaking), Familiarity with coding (for HTML/ CSS etc.)[NOT MANDATORY]"
+      }
+    }
+
+
+]
